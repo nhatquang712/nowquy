@@ -1,5 +1,5 @@
 #!name=Locket Gold 
-#!desc=By: Nobita (MOD CSA4G)
+#!desc=By: Doramon
 
 [Script]
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/DungHoang120401/Nobita/refs/heads/Module/Locket_Gold.js, requires-body=true, max-size=-1, timeout=60
